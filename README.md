@@ -2,6 +2,8 @@
 
 A macOS desktop app for reversible text pseudonymization.
 
+![Demo](./docs/maskr_demo.gif)
+
 ## Features
 
 - Define literal find/replace rules (source → target) and apply them to pasted text.
