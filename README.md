@@ -21,6 +21,9 @@ A macOS desktop app for reversible text pseudonymization.
 
 You define a list of literal find/replace rules. The app scans the input text once, left to right, and replaces matches simultaneously so that replacements never cascade into one another. The same rule set can be applied in reverse to restore the original text.
 
+## Installation
+Download Maskr-0.1.dmg from the Releases and drag it into your Applications folder.
+
 ## Getting started
 
 ```sh
